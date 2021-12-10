@@ -1,3 +1,3 @@
-import InfoCard from './components/InfoCard/index'
+import DeliveryCtaPDP from './components/DeliveryCtaPDP/index'
 
-export default InfoCard
+export default DeliveryCtaPDP
